@@ -105,12 +105,12 @@ username = "MunifTanjim"
 repository = "minimo"
 
 [params.search]
-client = "fuse" # algolia / fuse / lunr
+client = "algolia" # algolia / fuse / lunr
 
 [params.search.algolia]
-appId = ""
-indexName = ""
-searchApiKey = ""
+appId = "RK0Z5TSPRN"
+indexName = "prod_personalsite"
+searchApiKey = "9fb98f09af3fa0971e2cd9616d67466a"
 
 [taxonomies]
 author = "authors"
