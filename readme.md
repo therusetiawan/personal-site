@@ -6,10 +6,12 @@
 
 #### Create new post
 ```
-hugo new post/{{title}}
+hugo new posts/{{title}}
 ```
 
 #### Run static page
 ```
 hugo server
 ```
+### Deploy to Github Page
+Auto deploy using Travis CI, but need to set custom domain manually
