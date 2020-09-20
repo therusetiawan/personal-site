@@ -6,7 +6,7 @@ copyright = ""
 theme = "minimo"
 
 disqusShortname = "herusetiawan-id"
-googleAnalytics = ""
+googleAnalytics = "UA-178474974-1"
 
 Paginate = 5
 preserveTaxonomyNames = true
@@ -74,7 +74,7 @@ titleSeparator = "•"
 [params.social]
 email = "me.herusetiawan@gmail.com"
 github = "therusetiawan"
-instagram = "@herusetiawan.id"
+instagram = "herusetiawan.id"
 twitter = "therusetiawan"
 telegram = "therusetiawan"
 youtube = "UCz2kPuasq463KQZrAZclKMw"
@@ -133,8 +133,13 @@ weight = 2
 url = "/categories/tech/"
 
 [[menu.main]]
-name = "Me"
+name = "Networking"
 weight = 3
+url = "/categories/networking/"
+
+[[menu.main]]
+name = "Me"
+weight = 4
 url = "/categories/me/"
 
 [blackfriday]

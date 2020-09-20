@@ -2,7 +2,7 @@
 title: "Monitoring Mikrotik Menggunakan Telegram Chatbot"
 date: 2020-05-12T15:38:25+07:00
 draft: false
-categories: ["Tech"]
+categories: ["Networking"]
 tags: ["Networking", "Mikrotik", "Chatbot"]
 ---
 
