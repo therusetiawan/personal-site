@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://herusetiawan.id"
 title = "Heru Setiawan"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
