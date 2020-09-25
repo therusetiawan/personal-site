@@ -38,7 +38,6 @@ Maka jika diasumsikan seorang siswa mengikuti pembelajaran jarak jauh yang mana 
 Total = 4 MB pesan + 20 MB materi = 24 MB
 ```
 
-
 ##### Google Classroom
 
 Google Classroom merupakan media pembelajaran yang paling populer dan hampir setiap sekolah menggunakan media ini. Cara penggunaannya setiap guru akan membuat kelas di Google Classroom kemudian siswa dapat bergabung dengan memasukkan kode unik. Melalui Google Classroom guru dapat menyampaikan materi berupa file (power point, pdf, docx), video ataupun link video youtube.
