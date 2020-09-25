@@ -3,7 +3,7 @@ title: "Konsumsi Data Selama Pembelajaran Jarak Jauh"
 date: 2020-09-25T15:09:02+07:00
 draft: false
 categories: ["Networking"]
-tags: ["Sekolah", "Bytes"]
+tags: ["Sekolah", "Data Usage"]
 ---
 
 Sejak pandemi Covid-19 melanda Indonesia pada Maret 2020, semua jenjang pendidikan mulai menyelenggarakan pembelajaran jarak jauh (PJJ). Kegiatan pembelajaran ini sangat mengandalkan perangkat laptop/komputer, smartphone dan koneksi internet. Media pembelajaran yang digunakan bisa bervariasi mulai dari Whatsapp Group, E-Learning sekolah, Google Classroom, Youtube, Zoom hingga Google Meet. Setiap media pembelajaran tersebut mempunyai tingkat konsumsi data yang berbeda-beda.
