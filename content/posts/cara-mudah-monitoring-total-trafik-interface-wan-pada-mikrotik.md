@@ -74,4 +74,3 @@ Grafik berisi beberapa data yaitu :
 <pre><code>/system scheduler add name="send-traffic-to-winbot" interval=1h on-event="winbot-traffic"</code></pre>
 
 Maka setiap 1 jam scheduler di atas akan menjalakan script untuk mengirimkan data total trafik ke Mikrotik Winbot. Setelah data tersimpan maka dapat langsung dilihat pada web Mikrotik Winbot dan data akan tersimpan selamanya.
-
