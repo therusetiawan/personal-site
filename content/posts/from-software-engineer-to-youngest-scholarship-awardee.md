@@ -1,5 +1,5 @@
 ---
-title: "From Software Engineer to Youngest Scholarship Awardee: Navigating the Journey of Pursuing a Master’s Degree as a Civil Servant in DIY Province"
+title: "Pursuing a Master's Degree Program Through a Civil Servant Scholarship"
 date: 2023-11-15T06:20:20+07:00
 draft: false
 categories: ["Me"]
