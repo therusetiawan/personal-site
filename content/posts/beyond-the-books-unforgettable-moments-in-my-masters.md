@@ -4,6 +4,7 @@ date: 2023-11-28T10:15:13+07:00
 draft: false
 categories: ["Me"]
 tags: ["Study", "Master Degree", "Information Technology", "Civil Servant"]
+---
 
 Becoming a master's student at Gadjah Mada University was a surprise, especially considering that I obtained this status with a scholarship. You can read [this post](https://www.herusetiawan.id/posts/from-software-engineer-to-youngest-scholarship-awardee/) to know about how I secured the scholarship from the DIY province.
 
