@@ -22,7 +22,7 @@ Le'ts move to the second semester. I enrolled in five subjects with 13 credits. 
 
 ![Interoperability Class] (/img/interoperability-class.jpeg)
 
-The third semester was conducted entirely in offline mode. I enrolled in Blockchain and seminar 2 subjects, totaling 4 credits. Blockchain was an optional subject, and during the lecturer i worked on a final project about [smart contract implementation in crowdfunding using Solidity](https://github.com/therusetiawan/crowdfunding-smartcontract). Although I only selected 2 subjects in the third semester, it still be a busy semester due to a publication in an international conference, as detailed in the following paragraph.
+The third semester was conducted entirely in offline mode. I enrolled in Blockchain, Advanced Computer Network, and Seminar 2 subjects, totaling 7 credits. Blockchain was an optional subject, and during the lecturer i worked on a final project about [smart contract implementation in crowdfunding using Solidity](https://github.com/therusetiawan/crowdfunding-smartcontract). Although I only selected 2 subjects in the third semester, it still be a busy semester due to a publication in an international conference, as detailed in the following paragraph.
 
 
 #### Thesis, Research Grant and Publication
