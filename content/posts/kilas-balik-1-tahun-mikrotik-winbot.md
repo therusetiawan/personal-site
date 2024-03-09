@@ -3,7 +3,7 @@ title: "Kilas Balik 1 Tahun Mikrotik Winbot"
 date: 2021-07-21T20:38:32+07:00
 draft: false
 categories: ["Networking"]
-tags: ["Winbot", "Mikrotik", "Chatbot"]
+tags: ["Mikrotik", "Chatbot", "Winbot"]
 ---
 
 ##### Backstory

@@ -3,7 +3,7 @@ title: "Capaian 2017 Dan Target 2018"
 date: 2017-12-30T07:25:36+07:00
 draft: false
 categories: ["Me"]
-tags: ["Target", "StartUp", "Kuliah", "Story"]
+tags: []
 ---
 
 Tak terasa kita telah berada di penghujung 2017. Rasanya begitu cepat melewati 12 bulan

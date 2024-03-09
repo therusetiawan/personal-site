@@ -3,7 +3,7 @@ title: "Monitoring Mikrotik Menggunakan Telegram Chatbot"
 date: 2020-05-12T15:38:25+07:00
 draft: false
 categories: ["Networking"]
-tags: ["Networking", "Mikrotik", "Chatbot"]
+tags: ["Mikrotik", "Chatbot", "Winbot"]
 ---
 
 Dewasa ini aplikasi chat sangatlah populer. Setiap orang selalu berkomunikasi menggunakan aplikasi chat mulai dari urusan pekerjaan, bisnis ataupun hanya sekedar say hello. Pun aplikasi chat banyak macamnya, mulai dari WhatsApp, Line, Facebook Messenger sampai Telegram. Praktis dan interaktif menjadi alasan di balik kepopuleran aplikasi chat.

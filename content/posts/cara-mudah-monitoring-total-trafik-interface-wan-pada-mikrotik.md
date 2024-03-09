@@ -3,7 +3,7 @@ title: "Cara Mudah Monitoring Total Trafik Interface WAN pada Mikrotik"
 date: 2021-07-07T10:57:38+07:00
 draft: false
 categories: ["Networking"]
-tags: ["Networking", "Mikrotik"]
+tags: ["Mikrotik", "Chatbot", "Winbot"]
 ---
 
 Mikrotik merupakan sebuah router yang bisa dikatakan memiliki paket komplit. Setiap melakukan pembelian router ini maka fitur-fiturnya langsung bisa dinikmati oleh pengguna. Mulai dari pengaturan bandwidth, NAT, firewall, web proxy, DCHP, routing, monitoring interface hingga hotspot.

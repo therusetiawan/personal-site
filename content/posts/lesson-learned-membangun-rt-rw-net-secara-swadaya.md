@@ -4,7 +4,7 @@ date: 2020-09-21T09:06:23+07:00
 draft: false
 
 categories: ["Networking"]
-tags: ["Networking", "RT/RW Net", "Mikrotik"]
+tags: ["Mikrotik", "RTRWNet"]
 ---
 
 Saat ini kebutuhan akan koneksi internet sangatlah tinggi. Terutama di masa pandemi yang
@@ -241,4 +241,4 @@ kemungkinan kami tidak bisa lagi berlangganan Indihome/WMS.
 
 ![Beran Squad] (/img/beran-squad.jpg)
 
-Foto diambil tahun 2018 di Pantau Cemara Sewu
+Foto diambil tahun 2018 di Pantai Cemara Sewu

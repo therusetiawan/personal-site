@@ -2,7 +2,7 @@
 title: "Memulai Hobi Baru Bersepeda"
 date: 2019-07-02T13:12:39+07:00
 categories: ["Me"]
-tags: ["Cycling", "Story", "Hobi"]
+tags: ["Cycling", "Hobi"]
 draft: false
 ---
 

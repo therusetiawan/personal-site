@@ -3,7 +3,7 @@ title: "Monitoring Jaringan Tanpa the Dude"
 date: 2020-05-17T16:33:07+07:00
 draft: false
 categories: ["Networking"]
-tags: ["Networking", "Mikrotik", "Chatbot"]
+tags: ["Mikrotik", "Chatbot", "Winbot"]
 ---
 
 Jika anda pengguna mikrotik pasti sudah tidak asing lagi dengan aplikasi [The Dude](https://mikrotik.com/thedude). Ya aplikasi ini digunakan untuk memonitoring suatu jaringan komputer. The Dude mempunyai banyak fitur, salah satu yang sering digunakan yakni monitoring perangkat yang terhubung ke jaringan. Cara kerjanya ketika suatu perangkat mengalami gangguan (re: down) maka The Dude akan mengirimkan notifikasi. Menariknya The Dude menawarkan berbagai platform untuk notifikasi di antaranya bunyi beep pada mikrotik, flash, email, sms, dan popup. Bahkan The Dude juga memberikan support untuk membuat notifkasi sendiri (custom notification). Kemudian protokol yang dapat dimonitoring menggunakan The Dude pun bermacam-macam mulai dari icmp, http, ssh, ftp dan sebagainya.
