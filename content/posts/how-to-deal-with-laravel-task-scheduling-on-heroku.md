@@ -3,7 +3,7 @@ title: "How to Deal With Laravel Task Scheduling on Heroku"
 date: 2018-12-05T20:41:58+07:00
 draft: false
 categories: ["Tech"]
-tags: ["Terminal", "Laravel", "Scheduler", "Heroku"]
+tags: ["Laravel","Heroku"]
 ---
 
 Three months ago, i was assigned to one of [Qiscus](https://qiscus.com/) product

@@ -3,7 +3,7 @@ title: "How to Save Tmux Session"
 date: 2021-01-01T08:23:15+07:00
 draft: false
 categories: ["Tech"]
-tags: ["Terminal", "Tmux", "Window"]
+tags: ["Terminal", "Tmux"]
 ---
 
 Hi folks,

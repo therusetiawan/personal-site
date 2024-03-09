@@ -3,7 +3,7 @@ title: "Memulai Petualangan Menggunakan Vim Part 1"
 date: 2017-12-10T10:51:40+07:00
 draft: false
 categories: ["Tech"]
-tags: ["Terminal", "VIM", "Story"]
+tags: ["Terminal", "VIM"]
 ---
 
 Yeah, salah satu resolusi terbesar saya di tahun 2017 adalah berhasil menjadikan VIM sebagai text editor utama. Yang jelas butuh perjuangan dan kerja keras untuk mencapai hal tersebut. Waktu yang saya butuhkan untuk benar-benar full menggunakan VIM sektiar 4 bulan. Salah satu hal yang membuat saya perpacu untuk belajar VIM yaitu quote dari sebuah blog dengan judul [Learn VIM Progressively] (http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/).

@@ -3,7 +3,7 @@ title: "Manage Your Ruby Version using rbenv"
 date: 2017-12-18T05:38:38+07:00
 draft: false
 categories: ["Tech"]
-tags: ["Ruby", "Version Manager", "RVM", "rbenv"]
+tags: ["Ruby", "Version Manager"]
 ---
 
 Bisa dikatakan saya mulai mengenal Version Manager sejak menjadi Backend Developer

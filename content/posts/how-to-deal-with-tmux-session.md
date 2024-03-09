@@ -3,7 +3,7 @@ title: "How to Deal With Tmux Session"
 date: 2018-09-29T19:04:46+07:00
 draft: false
 categories: ["Tech"]
-tags: ["Terminal", "Tmux", "Window"]
+tags: ["Terminal", "Tmux"]
 ---
 
 Hi folks,

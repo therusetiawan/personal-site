@@ -3,7 +3,7 @@ title: "Memulai Petualangan Menggunakan Vim (Part 2)"
 date: 2018-01-15T20:53:23+07:00
 draft: false
 categories: ["Tech"]
-tags: ["Terminal", "VIM", "Story"]
+tags: ["Terminal", "VIM"]
 ---
 
 Halo, kembali lagi bertemu dengan post yang mengupas tentang `VIM`.
