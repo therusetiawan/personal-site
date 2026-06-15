@@ -6,9 +6,9 @@ categories: ["Me"]
 tags: ["Study", "Master Degree", "Information Technology", "Civil Servant"]
 ---
 
-It has been 2.5 years since I graduated from Gadjah Mada University with a scholarship from the Pemerintah Daerah DIY. As a form of personal responsibility and gratitude, I would like to share what I have accomplished during the past 2.5 years, particularly the activities and contributions I have made beyond my daily responsibilities as a teacher.
+It has been 2.5 years since I graduated from Gadjah Mada University with a scholarship from Pemerintah Daerah DIY. As a form of personal responsibility and gratitude, I would like to share what I have accomplished during the past 2.5 years, particularly the activities and contributions I have made beyond my daily responsibilities as a teacher.
 
-During my studies, I was fortunate to publish three papers at international conferences. All of them were published by IEEE. I was the first author on two papers and the second author on one paper. Special thanks to the AIG Research Team —Hary Fadli Yusuf and Shofiyyah Zahrah—
+During my studies, I was fortunate to publish three papers at international conferences. All of them were published by IEEE. I was the first author on two papers and the second author on one paper. Special thanks to AIG Research Team —Hary Fadli Yusuf and Shofiyyah Zahrah—
 
 If you would like to read my publications, here is the list:
 
@@ -18,17 +18,17 @@ If you would like to read my publications, here is the list:
 
 3. ["Advancing Automatic Distractor Generation for English Vocabulary Tests Using Generative Artificial Intelligence"](https://ieeexplore.ieee.org/abstract/document/11081103)
 
-I officially returned to work at the school on December 1, 2023, based on Governor's Decree Number 355/Pem.D/UP/D.4. However, my status was still "Calon Guru". I had to wait one year before being appointed to the "fungsional" position of "Guru Teknik Komputer dan Jaringan Ahli Pertama". Why am I telling you this? One of the consequences of being a "Calon Guru" was that I was not eligible to receive the "fungsional" allowance :)
+I officially returned to work at the school on December 1, 2023, based on Governor's Decree Number 355/Pem.D/UP/D.4. However, my status was still "Calon Guru". I had to wait one year before being appointed to "fungsional" position of "Guru Teknik Komputer dan Jaringan Ahli Pertama". Why am I telling you this? One of the consequences of being a "Calon Guru" was that I was not eligible to receive "fungsional" allowance :)
 
 ![Graduation Day] (/img/wisuda-gsp-2024.jpeg)
 
 #### Being A Professional Teacher?
 
-Another consequence of pursuing a master's degree through the "Tugas Belajar" program was that I was not eligible to participate in PPG (Program Profesi Guru) program. So, I had to wait more than six years after becoming a teacher before I could enroll.
+Another consequence of pursuing a master's degree through "Tugas Belajar" program was that I was not eligible to participate in PPG (Program Profesi Guru) program. So, I had to wait more than six years after becoming a teacher before I could enroll.
 
 Alhamdulillah, around September 2025, I was officially accepted as a PPG student at Universitas Pendidikan Indonesia (UPI). I completed the program in November 2025 and officially became a "professional teacher". So, I am eligible to receive "Tunjangan Profesi Guru".
 
-Sometimes, I joke with my friends that teachers who are not yet eligible to receive "Tunjangan Profesi Guru" are still in the "guru prasejahtera" phase.
+Sometimes, I joke with my friends that teachers who are not yet eligible to receive "Tunjangan Profesi Guru" are still in "guru prasejahtera" phase.
 
 #### Keeping The Network On
 
@@ -52,13 +52,13 @@ I also deployed several tools, such as Grafana for network traffic monitoring, U
 
 In fact, my school is not considered a top-tier vocational school in Yogyakarta, so participating in national competitions is relatively challenging. I was very fortunate, after returning from the study, I met several outstanding students whom I could mentor, encourage, and prepare for competition.
 
-Our first competition was the Olimpiade Jaringan MikroTik 2024, organized by Citraweb Yogyakarta. This is one of the most prestigious competitions for vocational high school students in the Computer and Network Engineering major. More than 400 schools took part in the competition, making it a highly competitive event.
+Our first competition was Olimpiade Jaringan MikroTik 2024, organized by Citraweb Yogyakarta. This is one of the most prestigious competitions for vocational high school students in Computer and Network Engineering major. More than 400 schools took part in the competition, making it a highly competitive event.
 
 Alea Farrel and Andika Maulana successfully achieved a place in the top 10, which qualified them for the final stage of the competition. I believe this was a truly outstanding achievement, especially considering the number of participating schools and the level of competition.
 
 ![Olimpiade Jaringan Mikrotik 2024] (/img/ojm-2024.jpeg)
  
-The latest achievement came from Ernesto Favian Cesario Yoofi Wahyudianto, who won the Cloud Computing category at the Lomba Keterampilan Siswa (LKS) competition in the Special Region of Yogyakarta. As the provincial winner, he earned the opportunity to represent Yogyakarta at the national competition that will be held in July 2026.
+The latest achievement came from Ernesto Favian Cesario Yoofi Wahyudianto, who won Cloud Computing category at Lomba Keterampilan Siswa (LKS) competition in the Special Region of Yogyakarta. As the provincial winner, he earned the opportunity to represent Yogyakarta at the national competition that will be held in July 2026.
 
 This achievement is particularly special because, for the past four years, the competition had been dominated by SMKN 2 Yogyakarta. Breaking that streak and bringing the title to our school was a significant milestone for both Ernesto and our school.
 
