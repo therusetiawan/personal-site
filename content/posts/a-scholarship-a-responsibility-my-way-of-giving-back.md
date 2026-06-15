@@ -44,7 +44,7 @@ Currently, I manage one MikroTik CCR2004 as the main router, a MikroTik CCR1016 
 
 In general, I have implemented several network improvements. The most significant was migrating the network to an OLT-based infrastructure, which significantly increased the available bandwidth. Before the migration, the network traffic peaked at around 300 Mbps; after the migration, it was able to reach nearly 600 Mbps.
 
-![Kominfo Traffic] (/img/kominfo-traffic-2026l.jpeg)
+![Kominfo Traffic] (/img/kominfo-traffic-2026.jpeg)
 
 I also deployed several tools, such as Grafana for network traffic monitoring, Uptime Kuma for device up/down alerts, and OpenVPN for secure access to the internal network, and many more. I will share more details in another post, including the technical aspects. Please stay tuned!
 
@@ -56,7 +56,7 @@ Our first competition was the Olimpiade Jaringan MikroTik 2024, organized by Cit
 
 Alea Farrel and Andika Maulana successfully achieved a place in the top 10, which qualified them for the final stage of the competition. I believe this was a truly outstanding achievement, especially considering the number of participating schools and the level of competition.
 
-![Olimpiade Jaringan Mikrotik 2024] (/img/ojm-2024.jpeg.jpeg)
+![Olimpiade Jaringan Mikrotik 2024] (/img/ojm-2024.jpeg)
  
 The latest achievement came from Ernesto Favian Cesario Yoofi Wahyudianto, who won the Cloud Computing category at the Lomba Keterampilan Siswa (LKS) competition in the Special Region of Yogyakarta. As the provincial winner, he earned the opportunity to represent Yogyakarta at the national competition that will be held in July 2026.
 
