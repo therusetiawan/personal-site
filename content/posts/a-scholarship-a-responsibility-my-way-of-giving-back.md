@@ -1,6 +1,6 @@
 ---
 title: "A Scholarship, A Responsibility: My Way of Giving Back"
-date: 2026-06-15T10:10:24+07:00
+date: 2026-06-14T10:10:24+07:00
 draft: false
 categories: ["Me"]
 tags: ["Study", "Master Degree", "Information Technology", "Civil Servant"]
